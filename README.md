@@ -4,34 +4,12 @@
 
 ## 技术栈
 
-- **Vue 3** `^3.5.18` - 渐进式 JavaScript 框架
-- **TypeScript** `^5.9.2` - JavaScript 的超集，提供静态类型检查
-- **Vite** `^7.1.2` - 下一代前端构建工具
-- **Vue Router** `^4.5.1` - Vue.js 官方路由管理器
-- **Tailwind CSS** `^4.1.12` - 实用优先的 CSS 框架
-- **Reka UI** `^2.4.1` - 基于 Radix UI 和 Tailwind CSS 的组件库
-- **Lucide Vue Next** `^0.542.0` - 美观的图标库
-- **Class Variance Authority** `^0.7.1` - 类变体管理工具
-- **Tailwind Merge** `^3.3.1` - Tailwind CSS 类名合并工具
-- **clsx** `^2.1.1` - 条件类名构建工具
-
-## 项目结构
-
-```
-src/
-├── components/          # 可复用组件
-│   └── ui/             # shadcn/ui 组件
-├── views/              # 页面组件
-│   └── Index.vue       # 首页
-├── router/             # 路由配置
-│   └── index.ts        # 路由定义
-├── lib/                # 工具库
-│   └── utils.ts        # 工具函数
-├── assets/             # 静态资源
-├── App.vue             # 根组件
-├── main.ts             # 应用入口
-└── style.css           # 全局样式
-```
+- **Vue 3** `^3.5.18` 
+- **TypeScript** `^5.9.2` 
+- **Vite** `^7.1.2` 
+- **Vue Router** `^4.5.1` 
+- **Tailwind CSS** `^4.1.12` 
+- **Reka UI** `^2.4.1` 
 
 ##  开发
 
